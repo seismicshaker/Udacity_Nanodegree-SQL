@@ -7,7 +7,7 @@ The Udacity Nanodegree implements project-based learning. This directory is a co
 ```bash
 
 |-- README.md
-|-- 01-Deforestation_Exploration:
+|-- 01-Deforestation_Exploration/
 |   |-- Deforestation_Exploration_Report.pdf
 |   |-- forestation_exploration.sql
 |   |-- regions.csv
@@ -15,6 +15,12 @@ The Udacity Nanodegree implements project-based learning. This directory is a co
 |   |-- land_area.csv
 |   |-- forestation.csv
 |   |-- README.md
+|-- 02-Udiddit_A_Soical_New_Aggregator/
+|-- |-- bad-db.sql
+|-- |-- part_II-new_schema.sql
+|-- |-- part_III-migrate.sql
+|-- |-- Udiddit, a social news aggregator.pdf
+
 
 
 ```
@@ -25,3 +31,7 @@ In this project, I complete a Report for ForestQuery into Global Deforestation, 
 
 ## Project 2: Udiddit, A Social News Aggregator
 ### Management of Relational & Non-Relational Databases
+In this project, I assess and fix issues with the fictional social news aggregator, Udiddit. 
+
+
+![](12242023-SQL_nanodegree.svg)
