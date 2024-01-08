@@ -1,6 +1,6 @@
 # SQL Nanodegree
 
-The Udacity Nanodegree implements project-based learning. This directory is a collection of the three projects required. 
+The Udacity Nanodegree implements project-based learning. This directory is a collection of the two projects required. 
 
 ## Folder Structure
 
@@ -8,13 +8,13 @@ The Udacity Nanodegree implements project-based learning. This directory is a co
 
 |-- README.md
 |-- 01-Deforestation_Exploration/
-|   |-- Deforestation_Exploration_Report.pdf
-|   |-- forestation_exploration.sql
-|   |-- regions.csv
-|   |-- forest_area.csv
-|   |-- land_area.csv
-|   |-- forestation.csv
-|   |-- README.md
+|-- |-- Deforestation_Exploration_Report.pdf
+|-- |-- forestation_exploration.sql
+|-- |-- regions.csv
+|-- |-- forest_area.csv
+|-- |-- land_area.csv
+|-- |-- forestation.csv
+|-- |-- README.md
 |-- 02-Udiddit_A_Soical_New_Aggregator/
 |-- |-- bad-db.sql
 |-- |-- part_II-new_schema.sql
